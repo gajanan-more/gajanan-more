@@ -7,12 +7,13 @@ Hello there! I'm Gajanan More, a passionate Engineer from India. Welcome to my G
 - 💻🚀 Community-Driven Software Engineer
 
 
-
 - 🌍 Enthusiast of cloud-native development and open-source technologies
 
 
-
 - 🚀 Proficient in Kubernetes, Python, Docker, and more fascinating container technologies 🐳
+
+
+- 🐛 Proficient in Quality Assurance, Automation tools like Robot Framework, Selenium, Cypress ✅
 
 
 - 🎤 Passionate about technical evangelism, sharing knowledge
