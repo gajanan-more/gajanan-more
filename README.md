@@ -31,15 +31,17 @@ Hello there! I'm Gajanan More, a passionate Engineer from India. Welcome to my G
 ## Languages, Technologies & Tools in My Arsenal 
 
 
-[<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" width="30" height="30"/>][Python]&ensp;
-[<img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" alt="Bash" width="30" height="30"/>][Bash]&ensp;
-[<img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" alt="k8s" width="30" height="30"/>][Kubernetes]&ensp;
-[<img src="https://avatars.githubusercontent.com/u/792337?s=200&v=4" alt="Red Hat Openshift" width="30" height="30"/>][Openshift]&ensp;
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>][Git]&ensp;
-[<img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="Jenkins" width="25" height="30"/>][Jenkins]&ensp;
-[<img src="https://fedoraproject.org/w/uploads/2/2d/Logo_fedoralogo.png" alt="Fedora OS" width="70" height="30"/>][Fedora]&ensp;
-[<img src="https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg" alt="HUGO" width="70" height="30"/>][Hugo]&ensp;
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="30" height="30"/>][VScode]&ensp;
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" width="30" height="30"/>&ensp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" alt="Robot Framework" width="30" height="30"/>&ensp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium Framework" width="30" height="30"/>&ensp;
+<img src="https://asset.brandfetch.io/idIq_kF0rb/idZxkJkFIi.svg" alt="Cypress Framework" width="30" height="30"/>&ensp;
+<img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" alt="k8s" width="30" height="30"/>&ensp;
+<img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" alt="Bash" width="30" height="30"/>&ensp;
+<img src="https://avatars.githubusercontent.com/u/792337?s=200&v=4" alt="Red Hat Openshift" width="30" height="30"/>&ensp;
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>&ensp;
+<img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="Jenkins" width="25" height="30"/>&ensp;
+<img src="https://fedoraproject.org/w/uploads/2/2d/Logo_fedoralogo.png" alt="Fedora OS" width="70" height="30"/>&ensp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="30" height="30"/>&ensp;
 
 
 
